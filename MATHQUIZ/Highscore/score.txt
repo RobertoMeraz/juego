@@ -1,0 +1,3 @@
+|USUARIO|	 |SCORE|
+['Roberto Meraz', 4]
+['Pedrito Yepiz', 7]
